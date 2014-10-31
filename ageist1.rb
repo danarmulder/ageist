@@ -1,3 +1,9 @@
+# Great work. Be careful about indentation, which is
+# an important part of the communication in your code
+
+# Did you do the if/else version too?
+# would be good to include all versions in future
+# also, liked that you included the problem in the readme
   age = rand(110)
     puts 'Age is '+ age.to_s + '.'
 case age
